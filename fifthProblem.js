@@ -24,3 +24,9 @@ connection.connect(function(error){
 module.exports = connection;
 //this expeorts the connection and allows apps to perform database operations  
 //using the connection
+
+
+
+//What would you use mySQL for?  Can you give an example?  
+//i would use mysql to store information, manage my content, and analyze data.
+// i would store information such as usernames, passwords, users, address, many more.
